@@ -1,2 +1,43 @@
-# weather-app
-A simple Weather App built with HTML, CSS, and JavaScript. Users can search any city to get real-time weather data using WeatherAPI. Displays location, temperature in °C, and wind speed. Features a clean UI, error handling, and beginner-friendly API integration.
+🌦️ Weather App – Project Description
+
+link: weatherly.niat.tech
+
+This is a beginner-friendly weather application built using HTML, CSS, and JavaScript. The app provides real-time weather information for any city entered by the user, using the WeatherAPI service.
+
+🔹 Features
+
+Search Bar: Users can enter a city name to fetch live weather data.
+
+Weather Details: Displays location name (city & country), temperature in Celsius, and wind speed in kph.
+
+API Integration: Uses fetch() with the WeatherAPI to retrieve current weather data.
+
+Error Handling: If an invalid location is entered or the API fails, an error message is displayed.
+
+Simple UI: Clean, card-based layout with input box, button, and results section.
+
+🔹 Technologies Used
+
+HTML5: For structuring the page (input, button, results).
+
+CSS3: For styling the layout with a minimal, beginner-friendly design (centered card, button hover effect).
+
+JavaScript (ES6): To handle button clicks, fetch data from the API, and dynamically update the webpage with results.
+
+WeatherAPI: External API that provides real-time weather data.
+
+🔹 How It Works
+
+User types a city into the input box.
+
+When the “Get Weather” button is clicked, JavaScript sends a request to WeatherAPI.
+
+The API responds with weather details in JSON format.
+
+The app displays:
+
+📍 Location (city, country)
+
+🌡️ Temperature in °C
+
+💨 Wind speed in kph
