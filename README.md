@@ -1,6 +1,6 @@
-🌦️ Weather App – Project Description
+🌦️ Weather App – link: weatherly.niat.tech
 
-link: weatherly.niat.tech
+
 
 This is a beginner-friendly weather application built using HTML, CSS, and JavaScript. The app provides real-time weather information for any city entered by the user, using the WeatherAPI service.
 
@@ -25,6 +25,8 @@ CSS3: For styling the layout with a minimal, beginner-friendly design (centered 
 JavaScript (ES6): To handle button clicks, fetch data from the API, and dynamically update the webpage with results.
 
 WeatherAPI: External API that provides real-time weather data.
+<img width="566" height="432" alt="image" src="https://github.com/user-attachments/assets/3e8a4f2f-ba88-4bfe-bee7-a1e0ddf5cf36" />
+
 
 🔹 How It Works
 
